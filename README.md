@@ -1,10 +1,10 @@
-# "Building a Chat App with Nodejs, Express and Socket.io"
+# "A Chat App with Nodejs, Express and Socket.io"
 
 
 ## Overview
 This is a real-time chat application where users can join different rooms and exchange messages instantly. Built with **[ Node.js, Express, Socket.io]**, the app allows users to join rooms, send messages, and see typing notifications.
 
-![Chat App Screenshot](./path-to-screenshot)  
+![Chat App Screenshot](./chat_app_screenshot.png)  
 *Screenshot showing two users, Su and Josh, in the "food" chat room.*
 
 ---
@@ -50,3 +50,8 @@ Make sure the following software is installed on your local machine:
 
 4. **Access the app:**
 Open your browser and go to http://localhost:3500 to see the chat app in action.
+
+## Usage
+- Enter your name and the chat room you'd like to join.
+- Start chatting in real-time with anyone who joins the same room.
+- View the list of active users and rooms on the interface.
