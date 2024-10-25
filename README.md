@@ -30,7 +30,7 @@ This is a real-time chat application where users can join different rooms and ex
 ### Prerequisites
 Make sure the following software is installed on your local machine:
 - **Node.js**: Download from [here](https://nodejs.org/).
-- **[Your database, e.g., MongoDB]**: Make sure a database is up and running locally or in the cloud (e.g., MongoDB Atlas).
+
 
 ### Installation
 
